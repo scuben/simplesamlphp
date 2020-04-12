@@ -1,7 +1,6 @@
 /cache/.gitkeep export-ignore
 /config/.gitkeep export-ignore
 /metadata/.gitkeep export-ignore
-/tests export-ignore
 /tools export-ignore
 .coveralls.yml export-ignore
 .editorconfig export-ignore
